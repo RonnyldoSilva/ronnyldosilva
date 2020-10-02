@@ -8,9 +8,9 @@
 
 <img title="Ronnyldo Silva's Top Languages" height=150px src="https://github.com/RonnyldoSilva/ronnyldosilva/blob/main/sonic.gif"/>
 
-[<img src="https://img.shields.io/github/followers/beatrizadm?label=follow&style=social" height="22" title="Follow me" />](https://github.com/RonnyldoSilva) 
-[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronnyldo-silva-200325145/" height="22" title="LinkedIn" />](https://www.linkedin.com/in/ronnyldo-silva-200325145/) 
-[<img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ronnyldosilva" height="22" title="Instagram" />](https://www.instagram.com/ronnyldosilva)
+[<img src="https://img.shields.io/github/followers/beatrizadm?label=follow&style=social" align=left height="22" title="Follow me" />](https://github.com/RonnyldoSilva) 
+[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronnyldo-silva-200325145/" height="22" align=left title="LinkedIn" />](https://www.linkedin.com/in/ronnyldo-silva-200325145/) 
+[<img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ronnyldosilva" align=left height="22" title="Instagram" />](https://www.instagram.com/ronnyldosilva)
 
 
 

@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">  
-<img title="Ronnyldo Silva's Top Languages" align=right height=150px src="https://github.com/RonnyldoSilva/ronnyldosilva/blob/main/sonic.gif"/>
+<img title="Ronnyldo Silva's Top Languages" align=right height=100px src="https://github.com/RonnyldoSilva/ronnyldosilva/blob/main/sonic.gif"/>
 
 
 🕵️‍♀️ Always being curious and building things
